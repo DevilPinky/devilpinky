@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/devilpinky/precache-manifest.23936a76ebe2554c39a1d7c5759a219f.js"
+  "/devilpinky/precache-manifest.7b4c2f767f2aa71d8193b20d0447e93b.js"
 );
 
 workbox.clientsClaim();
